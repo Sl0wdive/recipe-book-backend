@@ -13,7 +13,7 @@ This is the backend API for the Recipe Book application built with **Express** a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sl0wdive/recipe-book-backend.git
+git clone https://github.com/Sl0wdive/recipe-book-backend.git
 cd recipe-book-backend
 ```
 
